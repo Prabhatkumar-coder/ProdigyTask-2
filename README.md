@@ -10,7 +10,7 @@ Duration: 1st December2024 to 31st January2025
 
 Project Overview: Titanic Dataset Analysis
 Project Objective:
-The primary goal of this project is to perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset. This dataset contains information about the passengers of the Titanic, including demographic details, ticket class, fare, and survival status. The analysis aims to uncover patterns and trends that influence survival rates, explore relationships between variables, and prepare the data for further modeling or predictive analysis.
+The primary goal of this project is to perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset. This dataset contains information about the passengers of the Titanic, including demographic details, ticket class, fare, and survival status. The analysis aims to uncover patterns and trends that influence survival rates, explore relationships between variables, and prepare the data for further modeling , predictive analysis.
 
 Dataset Description:
 The Titanic dataset includes the following files:
